@@ -1,4 +1,3 @@
-FROM quay.io/hermit/hermit-ser:latest
 
 RUN git clone https://github.com/Mood00o/simple-api /root/simple-api
 WORKDIR /root/simple-api/
